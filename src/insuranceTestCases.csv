@@ -1,0 +1,51 @@
+age,accidents,expectedOutput
+58,0,"Enter your age: No additional surcharge
+
+How many accidents did you have? No surcharge
+Total amount to pay: 500
+"
+72,1,"Enter your age: No additional surcharge
+
+How many accidents did you have? Additional surcharge for accident: 50 
+Total amount to pay: 550
+"
+22,2,"Enter your age: Additional surcharge 100
+
+How many accidents did you have? Additional surcharge for accident: 125 
+Total amount to pay: 725
+"
+17,0,"Enter your age: Additional surcharge 100
+
+How many accidents did you have? No surcharge
+Total amount to pay: 600
+"
+23,1,"Enter your age: Additional surcharge 100
+
+How many accidents did you have? Additional surcharge for accident: 50 
+Total amount to pay: 650
+"
+32,2,"Enter your age: No additional surcharge
+
+How many accidents did you have? Additional surcharge for accident: 125 
+Total amount to pay: 625
+"
+20,3,"Enter your age: Additional surcharge 100
+
+How many accidents did you have? Additional surcharge for accident: 225 
+Total amount to pay: 825
+"
+68,4,"Enter your age: No additional surcharge
+
+How many accidents did you have? Additional surcharge for accident: 375 
+Total amount to pay: 875
+"
+21,5,"Enter your age: Additional surcharge 100
+
+How many accidents did you have? Additional surcharge for accident: 575 
+Total amount to pay: 1175
+"
+56,1,"Enter your age: No additional surcharge
+
+How many accidents did you have? Additional surcharge for accident: 50 
+Total amount to pay: 550
+"
